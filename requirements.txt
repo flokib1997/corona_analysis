@@ -1,0 +1,8 @@
+selenium
+bs4
+pandas
+np
+tqdm
+matplotlib
+plotly
+seaborn
